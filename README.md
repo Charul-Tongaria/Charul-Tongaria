@@ -1,11 +1,9 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)] -->
 <h1 align="center">Hi 👋, I'm Charul Tongaria</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://tenor.com/view/hack-hacking-hacker-hackerman-programmer-gif-13167413482750165588])">
+<h3 align="center">A technocrat Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charul-tongaria&label=Profile%20views&color=0e75b6&style=flat" alt="charul-tongaria" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charul-tongaria" alt="charul-tongaria" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack technologies.**
 
@@ -31,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charul-tongaria&show_icons=true&locale=en" alt="charul-tongaria" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charul-tongaria&" alt="charul-tongaria" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charul-tongaria" alt="charul-tongaria" /></a> </p>
